@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Irval
 #### Novice .NET Developer
-Curator of uGame Secret Section on the site YouGame.Biz.
-DataStock.Biz forum moderator.
+Curator of uGame Secret Section on the site [YouGame.Biz](https://YouGame.Biz).
+<br>[DataStock.Biz](https://DataStock.Biz) forum moderator.
 
 Skills: C# / C++ / Python
 
