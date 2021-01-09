@@ -5,7 +5,7 @@ Curator of uGame Secret and Programming Sections on the site [YouGame.Biz](https
 
 Skills: C# / C++ / Python
 
-- 🔭 I’m currently working on [NotificationManager](https://github.com/Irval1337/NotificationManager) 
+- 🔭 I’m currently working on [NotificationManager](https://github.com/Irval1337/NotificationManager), [CustomStatus](https://github.com/Irval1337/CustomStatus) and some secret projects :D
 - 💬 Ask me about working with vk.сom and Telegram api; designing and developing .NET projects 
 
 ![GitHub metrics](https://metrics.lecoq.io/Irval1337)  
