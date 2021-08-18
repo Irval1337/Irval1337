@@ -5,7 +5,7 @@
 
 Skills: C# / C++ / Python
 
-- 🔭 I’m currently working on [NotificationManager](https://github.com/Irval1337/NotificationManager), [YouGame_GroupChanger](https://github.com/Irval1337/YouGame_GroupChanger) and some secret projects :D
+- 🔭 I’m currently working on [YGSandBox](https://github.com/YGSandbox)
 - 💬 Ask me about working with vk.сom and Telegram api; designing and developing .NET projects 
 
 ![GitHub metrics](https://metrics.lecoq.io/Irval1337)  
