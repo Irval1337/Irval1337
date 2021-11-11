@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Irval
 #### Novice .NET Developer
 [YouGame.Biz](https://YouGame.Biz) forum moderator,
-<br>[DataStock.Biz](https://DataStock.Biz) forum moderator.
+<br>[DataStock.Biz](https://DataStock.Biz) forum head moderator.
 
 Skills: C# / C++ / Python
 
