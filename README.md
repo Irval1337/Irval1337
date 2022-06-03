@@ -5,7 +5,7 @@
 
 Skills: C# / C++ / Python
 
-- 🔭 I’m currently working on [YGSandBox](https://github.com/YGSandbox)
+- 🔭 I’m currently working on [Informatics-problems](https://github.com/Irval1337/Informatics-problems)
 - 💬 Ask me about working with vk.сom and Telegram api; designing and developing .NET projects 
 
 ![GitHub metrics](https://metrics.lecoq.io/Irval1337)  
