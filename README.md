@@ -3,7 +3,7 @@
 [YouGame.Biz](https://YouGame.Biz) forum moderator,
 <br>[DataStock.Biz](https://DataStock.Biz) forum head moderator.
 
-Main skills: C# / C++ / Python
+Main skills: C# / C++ / Python<br>
 Worked with: PHP / JS / LUA
 
 - 🔭 I’m currently working on [XenForo.NET](https://github.com/Xenforo-NET)
