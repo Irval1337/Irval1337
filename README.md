@@ -10,7 +10,8 @@
 <a href="https://codeforces.com/profile/irval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="irval" height="30" width="30" /></a>&nbsp;
 <a href="https://discordapp.com/users/459673559200169998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/459673559200169998/" height="30" width="30" /></a>&nbsp;
 <a href="https://t.me/irval1337" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg?4" alt="https://t.me/irval1337" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://vk.com/irval26" target="blank"><img align="center" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" alt="https://vk.com/irval26" height="30" width="30"/></a>
+<a href="https://vk.com/irval26" target="blank"><img align="center" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" alt="https://vk.com/irval26" height="30" width="30"/></a>&nbsp;&nbsp;
+<a href="https://habr.com/ru/users/Irval/" target="blank"><img align="center" src="https://habr.com/img/maskable_icon.png" alt="https://vk.com/irval26" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
