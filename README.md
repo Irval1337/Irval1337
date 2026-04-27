@@ -44,7 +44,7 @@ I mainly write in C++ and C#, and sometimes write Python scripts. I enjoy studyi
 
 ---
 
-### most significant rojects
+### featured projects
 
 - [`columnar-engine`](https://github.com/Irval1337/columnar-engine) — my columnar engine based on Apache Parquet
 - [`AALanguage`](https://github.com/Irval1337/AALanguage) — C-like programming language interpreter
