@@ -59,8 +59,8 @@ I mainly write in C++ and C#, and sometimes write Python scripts. I enjoy studyi
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Irval1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irval1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="155" src="./profile/stats.svg" />
+<img height="155" src="./profile/top-langs.svg" />
 
 </div>
 
